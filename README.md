@@ -9,7 +9,7 @@ Versitron provides **high-performance single fiber media converters** purpose-bu
 **Enhance your communication network with reliable single-fiber transmission.**  
 
 - Transmits Ethernet data over single-mode or multimode fiber  
-- Reduces cabling requirements while maintaining high bandwidth  
+- Reduces cabling requirements while maintaining high bandwidth   
 - Offers plug-and-play installation with minimal configuration  
 - Provides EMI/RFI immunity for clean and stable communication  
 
